@@ -1,0 +1,50 @@
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.login{
+  width: 245px;
+  margin-top: 200px;
+}
+
+.bg-danger{
+  padding: 2px 0px 2px 0px;
+  border-width: 1px;
+  border-style: double;
+  border-color: #f1aeae;
+}
+
+.bg-success{
+  padding: 2px 0px 2px 0px;
+  border-width: 1px;
+  border-style: double;
+  border-color: ##3c763d;
+}
+
+.btn-success a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.menu{
+  border-width: 1px;
+  border-style: double;
+  border-color: #ccc;
+  margin-bottom: 25px;
+  border-radius: 5px;
+}
+
+.menu2{
+  border-width: 0px 0px 1px 0px;
+  border-style: double;
+  border-color: #ccc;
+}
+
+.usuario{
+  font-size: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+}
